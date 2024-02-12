@@ -5,7 +5,7 @@ This script is useful to bypass weak filtering and/or WAFs in JSON contexes
 
 ## Install Requierements for the script
  ```shell
- pip install -r requierements.txt
+ pip install pwn
  ```
 ## Before Use
 **You need to change the follow variables in the code according to you victim**
