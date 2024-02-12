@@ -7,7 +7,7 @@
  pip install -r requierements.txt
  ```
 ## Before Use
-**You need to change the values according to you victim**
+**You need to change the follow variables in the code according to you victim**
 
 main_url = `URL Where u need to do SQLi`
 
