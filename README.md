@@ -8,6 +8,7 @@
  ```
 ## Before Use
 **You need to change the values according to you victim**
+
 main_url = `URL Where u need to do SQLi`
 
 BurpSuite_Proxy = `If u have a proxy`
